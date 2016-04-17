@@ -1,0 +1,23 @@
+{
+  "name": "parse-dokuwiki",
+  "version": "0.0.1",
+  "description": "A very simple dokuwiki parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psiphi75/parse-dokuwiki"
+  },
+  "keywords": [
+    "dokuwiki",
+    "wiki",
+    "parser"
+  ],
+  "author": "Simon M. Werner",
+  "license": "APSL-2.0",
+  "bugs": {
+    "url": "https://github.com/psiphi75/parse-dokuwiki/issues"
+  }
+}
