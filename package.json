@@ -1,5 +1,5 @@
 {
-  "name": "parse-dokuwiki",
+  "name": "dokuwiki-parser",
   "version": "0.0.1",
   "description": "A very simple dokuwiki parser",
   "main": "index.js",
